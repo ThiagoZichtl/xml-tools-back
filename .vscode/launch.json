@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-XmlStorageApplication<xmlstorage>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.zichtlthiago.xmlstorage.XmlStorageApplication",
+            "projectName": "xmlstorage",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
